@@ -42,15 +42,9 @@ public class TestJUnit {
 		String emailInput = emailElement.getTagName();
 		assertEquals("input", emailInput);
 	}
-
-	
 	
 	@After
 	public void tearDown() throws Exception {
 	}
-	
-	
-	
-	
 
 }
