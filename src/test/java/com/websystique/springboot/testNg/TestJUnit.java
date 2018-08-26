@@ -42,16 +42,7 @@ public class TestJUnit {
 		String emailInput = emailElement.getTagName();
 		assertEquals("input", emailInput);
 	}
-	
-	@Test
-	public void testLogin() {
-		
-	}
-	
-	@Test
-	public void testLink() {
-		
-	}
+
 	
 	
 	@After
